@@ -1,4 +1,3 @@
-layout_spectrum: 0.9017003541812301
 typography_spectrum: 0.5276147201657295
 color:
   brandStrength: 0.9328474772628397
@@ -6,9 +5,11 @@ color:
   saturation: 0.940906417556107
   rhythmicContrast: 0.5748302503488958
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.9017003541812301
 name: luminous flux
+description: 'beautiful lights - made by hand '
