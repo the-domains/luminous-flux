@@ -1,16 +1,16 @@
-typography_spectrum: 0.3899923977442086
+typography_spectrum: 0.5276147201657295
 color:
-  brandStrength: 0.8918473874218762
-  lightness: 0.9784205034375191
-  saturation: 0.9562607444822788
-  rhythmicContrast: 0.5116938469000161
+  brandStrength: 0.9328474772628397
+  lightness: 0.3597801758442074
+  saturation: 0.940906417556107
+  rhythmicContrast: 0.5748302503488958
   brandColors:
-    - '#CFC291'
-    - '#FFF6C5'
-    - '#A1E8D9'
-    - '#FF712C'
-    - '#695D46'
-layout_spectrum: 0.3960344986990094
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.9017003541812301
 name: luminous flux
 title: Luminous Flux
 description: 'beautiful lights - made by hand '
